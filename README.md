@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaishnuNair
-- 👀 I’m interested in everything related to chemistry (mostly cheminformatics, organometallic, biochemistry), music, coding, and trying new stuff.
+- 👀 I’m interested in everything related to chemistry (mostly cheminformatics, organometallic, biochemistry), music, coding, graphic designing and trying new stuff.
 - 🌱 I’m currently learning Molecular Dynamic Simulations and its applications in Drug Discovery
 - 💞️ I’m looking to collaborate on works related to anti-cancer, and anti-viral drugs.
 - 📫 How to reach me LinkedIn @ vaishnunair / s.kvaishnu @ gmail.com <remove spaces>
